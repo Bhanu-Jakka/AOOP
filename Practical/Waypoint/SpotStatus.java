@@ -1,0 +1,4 @@
+enum SpotStatus {
+    AVAILABLE,
+    OCCUPIED
+}
